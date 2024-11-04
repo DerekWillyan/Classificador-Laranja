@@ -51,6 +51,8 @@ Para utilizar o classificador:
 
 Após carregar uma imagem, a GUI exibirá a imagem e a classificação correspondente.
 
+![Captura de tela de 2024-11-03 21-28-56](https://github.com/user-attachments/assets/a9638fce-f825-4005-a58b-6ce28069c433)
+
 ## Personalização
 
 - Ajuste os parâmetros do modelo, como `img_height`, `img_width`, `batch_size`, `num_epochs`, e `learning_rate` no arquivo `train.py` para modificar o treinamento conforme necessário.
